@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Group Type Options -->
+    <string-array name="group_type_array">
+        <item>Group</item>
+        <item>Individual</item>
+    </string-array>
+
+    <!-- Package Options -->
+    <string-array name="package_options_array">
+        <item>Package 1</item>
+        <item>Package 2</item>
+        <item>Package 3</item>
+    </string-array>
+
+    <!-- Checkbox Labels -->
+    <string name="city_label">City</string>
+    <string name="location_label">Location</string>
+    <string name="country_label">Country</string>
+
+    <!-- Button Labels -->
+    <string name="submit_button_label">Submit</string>
+
+    <!-- Default Strings for Display Activity -->
+    <string name="group_type_label">Group Type: </string>
+    <string name="selected_package_label">Selected Package: </string>
+    <string name="city_selected_label">City: </string>
+    <string name="location_selected_label">Location: </string>
+    <string name="country_selected_label">Country: </string>
+    <string name="package_options_array">\n</string>
+    <string name="app_name" />
+</resources>
